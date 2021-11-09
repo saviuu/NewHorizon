@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6C9tEf5ZCOB2j2bIV5c60e1OYQBinS21+vPwtxX7GjGr63AaYkcXhc8NilqCbeSmh4gSGuxaoStxyeQI1vl8ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\source\\repos\\ApiNewHorizon\\ApiNewHorizon\\ApiNewHorizon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
